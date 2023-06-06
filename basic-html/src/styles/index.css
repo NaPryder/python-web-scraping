@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;1,400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  align-items: center;
+}
+
+.left-side {
+  position: relative;
+  margin: 5px;
+
+}
+
+.bg {
+  width: 200px;
+  height: 500px;
+  background-color: bisque;
+}
+
+.popup {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  top: 22px;
+  left: 18px;
+  height: 455px;
+  width: 223px;
+  background-color: rgb(239, 172, 90);
+}
+
+.popup .name {
+  text-align: center;
+  height: 20px;
+}
+
+hr {
+  width: 50px;
+  border: 1px solid blue;
+}
+
+.contact {
+  height: 30px;
+  background-color: rgb(226, 68, 29);
+  margin-top: auto;
+}
+
+.right-side>h1 {
+  font-size: 5rem;
+}
+
+.right-side>h2 {
+  font-size: 2rem;
+}
+
+.right-side>p {
+  margin-top: 20px;
+}
+
+.profile-picture {
+  margin-top: 50px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  /* object-fit: cover; */
+}
+
+.profile-picture>img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.btns {
+  display: flex;
+  gap: 10px;
+}
+
+.btn {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 100px;
+  height: 30px;
+  border-radius: 15px 15px 15px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: .3s all linear;
+}
+
+.primary {
+  background-color: rgb(74, 120, 248);
+  color: white;
+  border: 2px solid rgb(74, 120, 248);
+}
+
+.primary:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid rgb(74, 120, 248);
+}
+
+.secondary {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+.secondary:hover {
+  background-color: rgb(74, 120, 248);
+  color: white;
+  border: 2px solid rgb(74, 120, 248);
+}
+
+div {
+  width: 100%;
+  height: 100%;
+}
+
+/* .row {
+  display: flex;
+  flex-direction: row;
+  height: 120px;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.item2 {
+  order: -10;
+  background-color: aqua;
+}
+
+.item3 {
+  order: -5;
+  background-color: rgb(255, 106, 0);
+}
+
+.item4 {
+  order: 1;
+  background-color: rgb(255, 0, 230);
+}
+
+.row-reverse {
+  display: flex;
+  flex-direction: row-reverse;
+  height: 120px;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: rgb(108, 181, 190);
+  height: 400px;
+  border: 3px solid orangered;
+  justify-content: space-around;
+}
+
+.col-reverse {
+  display: flex;
+  align-items: center;
+
+  flex-direction: column-reverse;
+  height: 400px;
+  border: 3px solid orangered;
+}
+
+div>* {
+  margin: 5px;
+  background-color: rgb(211, 242, 55);
+  width: 50px;
+  height: 30px;
+} */
+
+/* 
+.container .item {
+  color: violet;
+  cursor: pointer;
+}
+
+.container>ol>.item:not(:last-child) {
+  color: brown;
+  background-color: yellow;
+}
+
+.container .item:hover {
+  background-color: black;
+  font-weight: 800;
+}
+
+input:focus {
+  background-color: blue;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Roboto Mono', monospace;
+  color: #323a1398;
+  background-color: aqua;
+}
+
+.header {
+  color: red;
+}
+
+.button-ok {
+  font-size: 35px;
+  padding: 15px;
+  margin-right: 5px;
+}
+
+#label-firstname {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 700;
+} */

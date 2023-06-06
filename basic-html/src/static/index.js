@@ -1,2 +1,1 @@
-a = 1
-console.log('open index.js');
+import "./styles/index.css";
