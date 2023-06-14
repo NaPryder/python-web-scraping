@@ -129,6 +129,11 @@ div {
   height: 100%;
 }
 
+.MuiSvgIcon-root {
+  width: 12px;
+  height: 12px;
+}
+
 /* .row {
   display: flex;
   flex-direction: row;
