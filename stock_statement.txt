@@ -8,6 +8,8 @@
       net_profit : 3838.59
       profit_rate : 14.396
       profit_per_stock : 1.2200000000000002
+      GRADE = 3
+      
 
 
           
@@ -19,6 +21,8 @@
       net_profit : 390.38199999999995
       profit_rate : 6.88
       profit_per_stock : 0.976
+      GRADE = 3
+      
 
 
           
@@ -30,6 +34,8 @@
       net_profit : 105.29399999999998
       profit_rate : 8.261999999999999
       profit_per_stock : 0.21999999999999997
+      GRADE = 3
+      
 
 
           
@@ -41,6 +47,8 @@
       net_profit : 6754.494000000001
       profit_rate : 23.7
       profit_per_stock : 0.566
+      GRADE = 2
+      
 
 
           
@@ -52,6 +60,8 @@
       net_profit : 5826.992
       profit_rate : 30.891999999999996
       profit_per_stock : 7.276000000000001
+      GRADE = 2
+      
 
 
           
@@ -63,6 +73,8 @@
       net_profit : 2336.264
       profit_rate : 16.926000000000002
       profit_per_stock : 0.15400000000000003
+      GRADE = 2
+      
 
 
           
@@ -74,6 +86,8 @@
       net_profit : 143.23399999999998
       profit_rate : 40.092
       profit_per_stock : 0.29000000000000004
+      GRADE = 2
+      
 
 
           
@@ -85,6 +99,8 @@
       net_profit : 283.4
       profit_rate : 7.568
       profit_per_stock : 0.492
+      GRADE = 3
+      
 
 
           
@@ -96,6 +112,34 @@
       net_profit : 623.1960000000003
       profit_rate : 0.14400000000000007
       profit_per_stock : 0.03
+      GRADE = 2
+      
+
+
+          
+      STOCK: DRT
+      header ['งบปี 2562 31 ธ.ค. 2562', 'งบปี 2563 31 ธ.ค. 2563', 'งบปี 2564 31 ธ.ค. 2564', 'งบปี 2565 31 ธ.ค. 2565', 'ไตรมาส 1/2566 31 มี.ค. 2566']
+      DE : 0.5790700052758799
+      ROA : 21.008
+      ROE : 26.828000000000003
+      net_profit : 503.47200000000004
+      profit_rate : 12.040000000000001
+      profit_per_stock : 0.568
+      GRADE = 3
+      
+
+
+          
+      STOCK: TKS
+      header ['งบปี 2562 31 ธ.ค. 2562', 'งบปี 2563 31 ธ.ค. 2563', 'งบปี 2564 31 ธ.ค. 2564', 'งบปี 2565 31 ธ.ค. 2565', 'ไตรมาส 1/2566 31 มี.ค. 2566']
+      DE : 0.4955432584712468
+      ROA : 12.288
+      ROE : 16.444
+      net_profit : 510.36199999999997
+      profit_rate : 31.327999999999996
+      profit_per_stock : 1.078
+      GRADE = 3
+      
 
 
           

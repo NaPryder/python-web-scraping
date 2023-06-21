@@ -111,5 +111,6 @@ if __name__ == "__main__":
     with open(file, 'w', encoding='utf8') as f:
         f.write('=====STOCK STATEMENT=====\n')
 
-    stocks = ['AP', 'AIT', 'ICN', 'LH', 'tisco', 'BEM', 'IFS', 'PM', 'IRPC']
+    stocks = ['AP', 'AIT', 'ICN', 'LH', 'tisco',
+              'BEM', 'IFS', 'PM', 'IRPC', 'DRT', 'TKS']
     main(stocks=stocks, file=file)
